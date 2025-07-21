@@ -1,5 +1,5 @@
 
-# 🧠 DSA Notes – Arrays (C++)
+# 🧠 Arrays (C++)
 
 ## 📌 What is DSA?
 - **DSA** stands for **Data Structures and Algorithms**.
@@ -12,7 +12,7 @@
 
 ---
 
-## 📁 Arrays – The First Data Structure
+## 📁 Arrays
 
 ### ✅ Definition:
 An **Array** is a collection of **similar type of elements**, stored in **contiguous memory locations**, accessed using an **index**.
