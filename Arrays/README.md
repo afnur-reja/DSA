@@ -84,3 +84,4 @@ for(int i = 0; i < 5; i++) {
 int size = sizeof(marks) / sizeof(marks[0]);
 ```
 
+> Arrays are **pass by reference** in c++, means passing a memroy address of a variable to a function (when we change anything inside the function the changes will reflect in the original array), instead of creating a copy of the variable's value.
