@@ -9,6 +9,7 @@ void printAllUnique(int array[], int size) {
         for (int j = 0; j < size; j++) {
             if ( i != j && array[i] == array[j]) {
                unq = false;
+               break;
             } 
         }
 
