@@ -2,6 +2,7 @@
 #include <climits>
 using namespace std;
 
+//last occurrence
 int main() {
     int nums[] = {100, 999, 10, 50}; 
 
