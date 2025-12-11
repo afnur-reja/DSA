@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//FUNCTION : block of code which perform a task.
+
 // prime or not
 void isPrimeNum(int n){
     bool isPrime = true;
