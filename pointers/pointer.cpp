@@ -23,6 +23,11 @@ int main() {
     cout<<*(ptr)<<endl; //output = 1
     cout<<*(parPtr)<<endl; //output will be address of 'n' variable because 'parPtr' stores the address of 'ptr' variable which stores the address of 'n' variable.
     cout<<**(parPtr)<<endl; //output = 1 . double derefernce.
+    
+
+    //NULL POINTER : pointer that does not point to any location. we can not dereference null pointer.
+    int* nullPtr = NULL;
+    cout<<nullPtr<<endl; // output = 0x0
 
     return 0;
 }
