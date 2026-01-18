@@ -1,0 +1,1 @@
+Sorting : arranging data in a particular order (ascending or descending)
